@@ -1,5 +1,5 @@
 # suttoncollege
-#Sutton College
+# Sutton College
 ---------------
 This is a website that was build from an HTML file and brought over into WordPress. 
 
